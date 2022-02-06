@@ -1,1 +1,1 @@
-# lab-report-spectrometry
+# Measuring the Rydberg Constant with a Diffraction Grating
