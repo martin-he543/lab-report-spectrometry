@@ -1,4 +1,4 @@
-# Measuring the Rydberg Constant with a Diffraction Grating
+# Determination of the Rydberg Constant with a Diffraction Grating
 
 ### Maxima Plots
 ![red](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/red.png)
