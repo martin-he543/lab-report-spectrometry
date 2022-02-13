@@ -1,4 +1,5 @@
 # Determination of the Rydberg Constant with a Diffraction Grating
+The following full-resolution graphs can be found below:
 
 ### Maxima Plots
 ![red](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/red.png)
